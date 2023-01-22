@@ -1,0 +1,10 @@
+{
+  "name": "lp-sprites-encoder",
+  "scripts": {
+    "encode": "node app"
+  },
+  "dependencies": {
+    "canvas": "^2.11.0"
+  },
+  "license": "MIT"
+}
